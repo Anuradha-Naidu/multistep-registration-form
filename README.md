@@ -1,41 +1,55 @@
-#Building a Multi-step Registration Form
+# Building a Multi-step Registration Form
 
-   Deployed Link : https://stepperformanuradha.netlify.app/
 
+   # Deployed Link : https://stepperformanuradha.netlify.app/
+
+   
+## Introduction 
    *This project is a multi-step registration form built using ReactJS. It guides users through several steps to gather necessary information for
    registration.
+   
+   ## Features
+   
    Each step is numbered and can be tracked.
    Each Step has a previous and next button.
    After filling all fields, before submit, check your details in the Summary Step
    Agree to the terms and conditions checkbox
    Then Confirm and Account will be created successfully !!*
    
-#Technologies Used
+# Technologies Used
 
-   React: Frontend library for building user interfaces.
+- React: Frontend library for building user interfaces.
    
-   CSS (Tailwind CSS): Utility-first CSS framework used for styling.
+- CSS (Tailwind CSS): Utility-first CSS framework used for styling.
 
-#Project Structure
+# Project Structure
    The project is structured as follows:
 
-   src/: Contains all source code files.
-   Components/: Components used for different form steps.
-   StepperControl and Stepper for stepper management
-   contexts/: Context providers for managing state across components.
-   App.js: Main application component that manages form steps and state transitions.
+   - src/: Contains all source code files.
+   - Components/: Components used for different form steps.
+   - StepperControl and Stepper for stepper management
+   - contexts/: Context providers for managing state across components.
+   - App.js: Main application component that manages form steps and state transitions.
 
-#SETUP INSTRUCTIONS :
+# SETUP INSTRUCTIONS :
 
-   Git Clone: 
+   1. **Clone the repository:**
+
+   ```bash
    git clone https://github.com/Anuradha-Naidu/multistep-registration-form.git
    cd multistep-registration-form
+   ```
 
-   Install dependencies:
+   2. **Install dependencies:**
+      
+   ```bash
    npm install
+   ```
    
-   Run the Application:
+   3. **Run the Application:**
+   ```bash
    npm start
+   ```
 
    
 
