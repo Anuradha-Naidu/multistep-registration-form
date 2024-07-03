@@ -13,6 +13,7 @@
 #Technologies Used
 
    React: Frontend library for building user interfaces.
+   
    CSS (Tailwind CSS): Utility-first CSS framework used for styling.
 
 #Project Structure
