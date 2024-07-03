@@ -1,5 +1,7 @@
 #Building a Multi-step Registration Form
 
+   Deployed Link : https://stepperformanuradha.netlify.app/
+
    *This project is a multi-step registration form built using ReactJS. It guides users through several steps to gather necessary information for
    registration.
    Each step is numbered and can be tracked.
