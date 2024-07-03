@@ -1,7 +1,7 @@
 # Building a Multi-step Registration Form
 
 
-   # Deployed Link : registeranuradha.netlify.app
+   # Deployed Link : https://registeranuradha.netlify.app/
 
    
 ## Introduction 
