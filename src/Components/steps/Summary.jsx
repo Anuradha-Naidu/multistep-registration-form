@@ -24,7 +24,12 @@ const Summary = ({ prevStep, handleSubmit, formData = {} }) => {
       </div>
       <div className="bg-white my-2 p-1 flex border border-gray-200 rounded">
         <div className="p-1 px-2 w-full text-gray-800">
-          Date Of Birth: {formData?.date || 'N/A'}
+          Date of Birth: {formData?.date || 'N/A'}
+        </div>
+      </div>
+      <div className="bg-white my-2 p-1 flex border border-gray-200 rounded">
+        <div className="p-1 px-2 w-full text-gray-800">
+          User Name: {formData?.username || 'N/A'}
         </div>
       </div>
       <div className="bg-white my-2 p-1 flex border border-gray-200 rounded">
