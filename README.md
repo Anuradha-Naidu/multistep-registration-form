@@ -10,19 +10,21 @@
    
    ## Features
    All features built required in Assignment : 
-   Step 1: Personal Information:
+   Step 1: Personal Information: First Name, Last Name, Date of Birth
+   
    Step 2: Contact Information: Include fields for Email and Phone Number.
 
    Step 3: Account Setup: Develop the final step to set up the user's account.
-           Include fields for Username, Password, and Confirm Password.
+                          Include fields for Username, Password, and Confirm Password.
    
    Stepper Navigation: Implement a stepper to indicate the total steps involved, highlighting visually the current step in progress, 
                        completed and the remaining steps to be completed allow users to navigate between steps - next, previous 
                        navigation
+                       
    Form Submission: Handle form submission. Upon successful validation of all steps, log the form data to the console.
    
-   Bonus Points (Optional): Add a summary step that displays the entered information for users to review before submission.
-                            Implement real-time validation for fields as users type.
+   Bonus Points (Optional):(completed) Add a summary step that displays the entered information for users to review before submission.
+                                       Implement real-time validation for fields as users type.
 
    Each step is numbered and can be tracked.
    Each Step has a previous and next button.
