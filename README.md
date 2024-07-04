@@ -28,9 +28,9 @@
                                           Implement real-time validation for fields as users type.
      Each step is numbered and can be tracked.
      Each Step has a previous and next button.
-     After filling all fields, before submit, check your details in the Summary Step
-     Agree to the terms and conditions checkbox
-     Then Confirm and Account will be created successfully
+     After filling all fields, before submit, check your details in the Summary Step.
+     Agree to the terms and conditions checkbox.
+     Then Confirm and Account will be created successfully !
       
 # Output Screenshots :
 
