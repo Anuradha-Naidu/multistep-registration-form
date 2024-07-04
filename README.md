@@ -6,7 +6,7 @@
    
 ## Introduction 
    *This project is a multi-step registration form built using ReactJS. It guides users through several steps to gather necessary information for
-   registration.
+   registration.*
    
    ## Features
    All features built required in Assignment : 
